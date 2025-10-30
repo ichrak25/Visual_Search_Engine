@@ -171,12 +171,3 @@ Enable debug mode in `app.py` for development:
 if __name__ == '__main__':
     app.run(debug=True, host="127.0.0.1", port=5000)
 ```
-
----
-
-
-
----
-
-Would you like me to include a short **“Demo / Screenshot”** section (with example placeholders for images or GIFs of your UI)? It helps make your GitHub page look more engaging.
-```
