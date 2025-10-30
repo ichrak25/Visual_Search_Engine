@@ -29,8 +29,8 @@ Make sure you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/visual-search-engine.git
-cd visual-search-engine
+git clone https://github.com/ichrak25/Visual_Search_Engine.git
+cd Visual_Search_Engine
 ````
 
 ### 2. Install Dependencies
@@ -49,9 +49,6 @@ pip install -r requirements.txt
 
 ### 4. Configure Image Directory
 
-Edit the `UPLOAD_FOLDER` path in `app.py` to point to your image dataset:
-
-```python
 UPLOAD_FOLDER = r"D:/Search_with_images/images"
 ```
 
