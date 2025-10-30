@@ -1,13 +1,4 @@
-Absolutely ✅
-Here’s the **complete `README.md` file** content — clean, professional, and ready to paste directly into your project folder.
 
-You can simply **create a file named `README.md`** in your project root (same folder as `app.py`) and paste the content below:
-
----
-
-### 📄 File: `README.md`
-
-````markdown
 # Visual Search Engine
 
 A powerful Visual Search Engine that allows users to find images using text queries or visual similarity search powered by deep learning.
