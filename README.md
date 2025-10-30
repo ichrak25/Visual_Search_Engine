@@ -174,19 +174,7 @@ if __name__ == '__main__':
 
 ---
 
-## License
 
-This project is licensed under the MIT License.
-See the [LICENSE](LICENSE) file for details.
-
----
-
-## Support
-
-For questions, issues, or suggestions, please open an issue on the GitHub repository:
-[https://github.com/yourusername/visual-search-engine/issues](https://github.com/yourusername/visual-search-engine/issues)
-
-```
 
 ---
 
